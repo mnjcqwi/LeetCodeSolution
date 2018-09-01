@@ -1,4 +1,4 @@
-package java.tree;
+package java.sort;
 
 public class QuickSort {
     public void sortIntegers2(int[] A) {
